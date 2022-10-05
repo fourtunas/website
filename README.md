@@ -1,2 +1,3 @@
-# website
-The Fourtunas website
+# Fourtunas Website
+
+The Fourtunas website.
